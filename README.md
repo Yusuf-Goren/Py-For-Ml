@@ -1,8 +1,8 @@
 # Py-For-Ml
 Usefull python examples for machine learning and data  visualization
 # Part 1 
-Covid 19 data
+Beginning
 # Part 2
-Car data
+Data visualization
 # Part 3
-Mushrooms data
+Feature selection
