@@ -4,3 +4,5 @@ Usefull python examples for machine learning and data  visualization
 Covid 19 data
 # Part 2
 Car data
+# Part 3
+Mushrooms data
